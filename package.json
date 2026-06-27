@@ -1,0 +1,12 @@
+{
+  "name": "blog-api-nodejs",
+  "version": "1.0.0",
+  "description": "Starter blog API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
